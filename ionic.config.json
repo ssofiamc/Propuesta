@@ -1,0 +1,7 @@
+{
+  "name": "puta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
